@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KZMuliLang</string>
+    <string name="hello_world">KZHello world!</string>
+    <string name="action_settings">KZSettings</string>
+    <string name="email">KZEnter email</string>
+    <string name="password">KZEnter password</string>
+    <string name="login_button">Киру</string>
+</resources>

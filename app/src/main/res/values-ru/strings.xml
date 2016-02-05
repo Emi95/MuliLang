@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Мульти Язык</string>
+    <string name="hello_world">Привет Ворлд!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="email">Введите мэйл</string>
+    <string name="password">Введите пароль</string>
+    <string name="login_button">Пустите меня</string>
+
+</resources>

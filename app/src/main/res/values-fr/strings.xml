@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FRMuliLang</string>
+    <string name="hello_world">FRHello world!</string>
+    <string name="action_settings">FRSettings</string>
+    <string name="email">FREnter email</string>
+    <string name="password">FREnter password</string>
+    <string name="login_button">FRLog in</string>
+</resources>
